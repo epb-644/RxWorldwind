@@ -15,8 +15,8 @@ import rx.Observer;
 
 import javax.swing.*;
 
-/**
- * Created by eburns-admin on 5/28/2014.
+/*
+ * A simple example that shows how to respond to zoom events via an observable.
  */
 public class ZoomEvents extends JFrame
 {

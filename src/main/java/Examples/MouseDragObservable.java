@@ -57,9 +57,7 @@ public class MouseDragObservable extends JFrame {
                         });
                     }
                 });
-
-
-    }
+     }
 
     public static void main(String[] args)
     {

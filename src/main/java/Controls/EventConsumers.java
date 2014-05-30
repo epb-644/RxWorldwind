@@ -7,7 +7,7 @@ import java.awt.event.MouseEvent;
 /**
  * Created by eburns-admin on 5/28/2014.
  */
-public enum EventConsumer { ;
+public enum EventConsumers { ;
     public static Observer<MouseEvent> createMouseEventConsumer(){
         return new Observer<MouseEvent>() {
             @Override
